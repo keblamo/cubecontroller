@@ -1,0 +1,14 @@
+{
+  "name": "cubecontroller",
+  "version": "1.0.0",
+  "description": "Controller for 8x8x8 LED Cube",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Simon Brown",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
+}
